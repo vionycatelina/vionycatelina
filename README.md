@@ -1,4 +1,4 @@
-# Hi, I'm Viony (フィオニ) 👋🌸
+# Hi, I'm Viony👋🌸
 
 🍵 Just like a good cup of matcha, I blend **data, logic, and creativity** to serve actionable insights.  
 
