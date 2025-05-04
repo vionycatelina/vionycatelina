@@ -2,9 +2,10 @@
 
 🍵 Just like a good cup of matcha, I blend **data, logic, and creativity** to serve actionable insights.  
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https://www.linkedin.com/in/viony-catelina/)](https://www.linkedin.com/in/viony-catelina/)
-[![Static Badge](https://img.shields.io/badge/Instagram-lavender?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Fvionycatelina%2F)](https://www.instagram.com/vionycatelina/)
-[![Static Badge](https://img.shields.io/badge/Email-maroon?style=for-the-badge&link=mailto%3Avionycatelina%40gmail.com)](mailto:Avionycatelina@gmail.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-f28482?style=for-the-badge&link=https://www.linkedin.com/in/viony-catelina/)](https://www.linkedin.com/in/viony-catelina/)
+[![Static Badge](https://img.shields.io/badge/Instagram-f5cac3?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Fvionycatelina%2F)](https://www.instagram.com/vionycatelina/)
+[![Static Badge](https://img.shields.io/badge/Email-f7ede2?style=for-the-badge&link=mailto%3Avionycatelina%40gmail.com)](mailto:Avionycatelina@gmail.com)
+[![Static Badge](https://img.shields.io/badge/CONNECT-f6bd60?style=for-the-badge&link=https://vionycatelina.github.io/message.html)](https://vionycatelina.github.io/message.html)
 
 ---
 
